@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **LangChain, RAG, DevOps**
 
-- 📫 How to reach me **mymailid**
+- 📫 How to reach me
+    - **durgaprasadattaluri99@gmail.com**
+    - **https://www.linkedin.com/in/attaluridurgaprasad/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
